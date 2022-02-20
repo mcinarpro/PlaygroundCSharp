@@ -1,4 +1,5 @@
 ﻿using PlaygroundCSharp.CSharp7;
+using PlaygroundCSharp.CSharp8;
 
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
@@ -18,5 +19,8 @@ Console.WriteLine("Hello, World!");
 // PatternMatching patternMatching = new PatternMatching();
 // patternMatching.MyMethod(4);
 
-LocalFunction localFunction = new LocalFunction();
-localFunction.MyMethod("test", "already in plurals");
+// LocalFunction localFunction = new LocalFunction();
+// localFunction.MyMethod("test", "already in plurals");
+
+IndicesAndRanges indicesAndRanges = new IndicesAndRanges();
+indicesAndRanges.MyMethod();
