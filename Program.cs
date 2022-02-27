@@ -1,5 +1,7 @@
-﻿using PlaygroundCSharp.CSharp7;
-using PlaygroundCSharp.CSharp8;
+﻿//using PlaygroundCSharp.CSharp7;
+//using PlaygroundCSharp.CSharp8;
+using PlaygroundCSharp.CSharp9;
+
 
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
@@ -22,5 +24,8 @@ Console.WriteLine("Hello, World!");
 // LocalFunction localFunction = new LocalFunction();
 // localFunction.MyMethod("test", "already in plurals");
 
-IndicesAndRanges indicesAndRanges = new IndicesAndRanges();
-indicesAndRanges.MyMethod();
+// IndicesAndRanges indicesAndRanges = new IndicesAndRanges();
+// indicesAndRanges.MyMethod();
+
+Productivity productivity = new Productivity();
+productivity.MyMethod();

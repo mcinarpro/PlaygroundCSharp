@@ -22,3 +22,11 @@
 - Async Disposable
 - Default interface implementation
 - Nullable references
+
+## C# 9
+
+- Property initilizer
+- Records
+- Top Level Statement
+- Pattern matching
+- Productivity & Performance
