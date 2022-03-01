@@ -30,3 +30,9 @@
 - Top Level Statement
 - Pattern matching
 - Productivity & Performance
+
+## C# 10
+
+- Using & Namespaces
+- Struct Records
+- Pattern matching
